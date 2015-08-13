@@ -1,2 +1,4 @@
-# hello-world
-Just another repository
+hello-world
+====================
+
+This is an awesome project
